@@ -1,0 +1,22 @@
+/* src/components/Auth/Login.css */
+.login-background {
+    
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .logo {
+    max-width: 250px;
+    max-height: 120px;
+  }
+  
